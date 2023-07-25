@@ -22,7 +22,8 @@
 1 15 javaからKotlinへ エクスポート
 
 1 16 kotlinプログラムを適宜変更 csv読み書き パッケージ等
-
+   Sony 開発者用サイト https://developer.sony.com/
+   Sony Xperia ドライバダウンロードサイト [https://developer.sony.com/open-source/aosp-on-xperia-open-devices/downloads/drivers#secondary-menu-desktop](https://developer.sony.com/open-source/aosp-on-xperia-open-devices/downloads/drivers#secondary-menu-desktop)https://developer.sony.com/open-source/aosp-on-xperia-open-devices/downloads/drivers#secondary-menu-desktop
 1 17 スマホで動作確認
 
 1 18 実装
